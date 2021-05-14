@@ -1,0 +1,1 @@
+INSERT INTO `item` (`ItemID`, `itemName`, `itemPrice`, `category`, `userid`) VALUES (NULL, '', '', '', '')
